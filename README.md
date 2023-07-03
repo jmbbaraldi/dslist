@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-DSList é uma API Rest em Java realizado no **Intensivão JavaS Spring**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSList é uma API Rest em Java realizado no **Intensivão Java Spring**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em uma lista de jogos, onde você consegue mover os elementos da lista.
 
